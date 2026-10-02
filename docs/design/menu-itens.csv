@@ -1,0 +1,21 @@
+categoria,nome,descricao,preco,selo,imagem
+Bebidas de expresso,Expresso,"Tiro duplo, crema densa, grão da casa.","R$ 8,00",,/images/item-expresso.webp
+Bebidas de expresso,Expresso macchiato,Expresso com uma nuvem de leite vaporizado.,"R$ 9,00",,/images/item-expresso-macchiato.webp
+Bebidas de expresso,Cappuccino,"Leite vaporizado em partes iguais, canela à parte.","R$ 12,00",Popular,/images/item-cappuccino.webp
+Bebidas de expresso,Flat white,"Expresso duplo, leite em microespuma fina.","R$ 13,00",,/images/item-flat-white.webp
+Bebidas de expresso,Mocha,"Chocolate 70%, expresso duplo, pouco açúcar.","R$ 14,00",Favorito da casa,/images/item-mocha.webp
+Bebidas geladas,Cold brew,"Infusão de 18 horas, servido com gelo.","R$ 13,00",Popular,/images/item-cold-brew.webp
+Bebidas geladas,Latte gelado,"Expresso duplo, leite gelado, sem xarope.","R$ 13,00",,/images/item-latte-gelado.webp
+Bebidas geladas,Affogato,Bola de sorvete de creme afogada em expresso quente.,"R$ 15,00",Favorito da casa,/images/item-affogato.webp
+Bebidas geladas,Chá gelado de hibisco,"Infusão fria, sem açúcar.","R$ 10,00",,/images/item-cha-gelado-hibisco.webp
+Bebidas geladas,Limonada com hortelã,"Limão espremido na hora, folhas de hortelã.","R$ 11,00",,/images/item-limonada-hortela.webp
+Doces,Pão de queijo,"Assado em forno de lenha, feito de manhã.","R$ 7,00",Popular,/images/item-pao-de-queijo.webp
+Doces,Bolo de fubá com erva-doce,"Receita da casa, fatia generosa.","R$ 11,00",Favorito da casa,/images/item-bolo-fuba-erva-doce.webp
+Doces,Cookie de aveia e cacau,"Sem manteiga, casquinha crocante.","R$ 8,00",,/images/item-cookie-aveia-cacau.webp
+Doces,Brigadeiro gourmet,"Chocolate belga, granulado crocante.","R$ 6,00",,/images/item-brigadeiro-gourmet.webp
+Doces,Torta de limão,"Massa amanteigada, creme de limão siciliano.","R$ 14,00",,/images/item-torta-limao.webp
+Sanduíches,Misto quente,"Presunto, queijo prato, manteiga na chapa.","R$ 16,00",Popular,/images/item-misto-quente.webp
+Sanduíches,Sanduíche de frango desfiado,"Frango desfiado, catupiry, rúcula, pão australiano.","R$ 19,00",Favorito da casa,/images/item-sanduiche-frango-desfiado.webp
+Sanduíches,Croissant de presunto e queijo,Croissant amanteigado recheado e gratinado na chapa.,"R$ 17,00",,/images/item-croissant-presunto-queijo.webp
+Sanduíches,Sanduíche vegetariano,"Berinjela grelhada, pesto, queijo minas, ciabatta.","R$ 18,00",,/images/item-sanduiche-vegetariano.webp
+Sanduíches,Baguete de atum,"Atum, maionese de limão, alface, tomate seco.","R$ 20,00",,/images/item-baguete-atum.webp
