@@ -30,7 +30,9 @@ export function Footer() {
           <p className="mt-3 text-body-sm text-areia/70">
             Centro, Cornélio Procópio — PR
             <br />
-            Terça a domingo, 7h às 19h
+            Segunda a sexta, 6h às 20h
+            <br />
+            Sábado, 9h às 21h
           </p>
           <div className="mt-3 flex gap-4 text-body-sm text-areia/70">
             <a href="https://instagram.com" className="hover:text-areia">Instagram</a>

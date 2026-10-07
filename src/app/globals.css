@@ -137,3 +137,22 @@ body {
     scroll-behavior: auto !important;
   }
 }
+
+/* Chatbot n8n — tema alinhado aos tokens da marca (acompanha o modo escuro) */
+:root {
+  --chat--color--primary: var(--color-caramelo);
+  --chat--color--primary-shade-50: var(--color-caramelo-escuro);
+  --chat--color--primary--shade-100: var(--color-caramelo-escuro);
+  --chat--color--secondary: var(--color-musgo);
+  --chat--color-white: var(--color-creme);
+  --chat--color-light: var(--color-areia);
+  --chat--color-light-shade-50: var(--color-linha);
+  --chat--color-dark: var(--color-espresso);
+  --chat--font-family: var(--font-figtree), sans-serif;
+  --chat--border-radius: var(--radius-md);
+  --chat--header--background: var(--color-espresso);
+  --chat--header--color: var(--color-creme);
+  --chat--toggle--background: var(--color-caramelo);
+  --chat--toggle--hover--background: var(--color-caramelo-escuro);
+  --chat--toggle--color: #fff;
+}
