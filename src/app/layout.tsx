@@ -2,6 +2,7 @@ import type { Metadata } from "next";
 import { Fraunces, Figtree, Geist_Mono } from "next/font/google";
 import { Header } from "@/components/Header";
 import { Footer } from "@/components/Footer";
+import { ChatBot } from "@/components/ChatBot";
 import { ReservationProvider } from "@/components/reservation/ReservationContext";
 import "./globals.css";
 
@@ -42,6 +43,7 @@ export default function RootLayout({ children }: LayoutProps<"/">) {
           <main className="flex-1">{children}</main>
           <Footer />
         </ReservationProvider>
+        <ChatBot />
       </body>
     </html>
   );
