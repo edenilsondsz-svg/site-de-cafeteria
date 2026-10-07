@@ -4,8 +4,8 @@ import { useEffect } from "react";
 import "@n8n/chat/style.css";
 import { createChat } from "@n8n/chat";
 
-const WEBHOOK_URL =
-  "https://n8n.srv2040451.hstgr.cloud/webhook/d67ce001-1a65-4633-9086-dcf75b8cb10a/chat";
+// Rota do próprio site que repassa ao n8n (ver src/app/api/chat/route.ts)
+const WEBHOOK_URL = "/api/chat";
 
 export function ChatBot() {
   useEffect(() => {
